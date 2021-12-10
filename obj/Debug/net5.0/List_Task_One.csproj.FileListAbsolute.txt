@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.exe
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.deps.json
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.runtimeconfig.json
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.dll
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\ref\List_Task_One.dll
+C:\Users\Admin\Desktop\List_Task_One\bin\Debug\net5.0\List_Task_One.pdb
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.AssemblyInfo.cs
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.dll
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\ref\List_Task_One.dll
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.pdb
+C:\Users\Admin\Desktop\List_Task_One\obj\Debug\net5.0\List_Task_One.genruntimeconfig.cache
